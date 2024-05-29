@@ -6,7 +6,7 @@ Boas-vindas ao desafio técnico voltado à garantia da qualidade da experiência
 
 Garanta que as aplicações estejam em conformidade com as diretrizes básicas de qualidade de software, com uma boa experiência!
 
-O desafio é composto por quatro etapas:
+O desafio é composto por três etapas:
 
 ## Etapa 1: Acessibilidade
 Objetivo: Verificar se o aplicativo Sunflower atende aos requisitos de acessibilidade para Pessoas com Deficiência (PcDs)
@@ -33,16 +33,7 @@ Objetivo: Avaliar a performance da API [Global REST Countries API](https://www.a
 - Documentar os resultados dos testes, incluindo screenshots, e descrições detalhadas dos resultados obtidos.
   
 
-## Etapa 3: Planejamento de Casos de Testes Manuais
-Objetivo: Criar um planejamento dos casos de testes que você julgar necessário para ter o fluxo de abertura de conta bem testado. 
-
-[FLUXO DE ABERTURA DE CONTA](https://github.com/laspbr/DESAFIO_QA_FRONTEND/blob/main/88742049-8429b400-d117-11ea-80a0-b86f26ed20ab.png)
-   
-### Atividades
-- Criar casos de testes no formato Gherkin;
-- Os casos de testes devem ser commitados em formato .pdf;
-
-## Etapa 4: Automação Mobile - Robot Framework
+## Etapa 3: Automação Mobile - Robot Framework
 Objetivo: Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflower:
 
 [APK](https://github.com/laspbr/DESAFIO_QA_FRONTEND/blob/main/sunflower.apk)
