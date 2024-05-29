@@ -33,7 +33,7 @@ Objetivo: Avaliar a performance da API [Global REST Countries API](https://www.a
 - Documentar os resultados dos testes, incluindo screenshots, e descrições detalhadas dos resultados obtidos.
   
 
-## Etapa 3. Planejamento de Casos de Testes Manuais
+## Etapa 3: Planejamento de Casos de Testes Manuais
 Objetivo: Criar um planejamento dos casos de testes que você julgar necessário para ter o fluxo de abertura de conta bem testado. 
 
 [FLUXO DE ABERTURA DE CONTA](https://github.com/laspbr/DESAFIO_QA_FRONTEND/blob/main/88742049-8429b400-d117-11ea-80a0-b86f26ed20ab.png)
@@ -42,7 +42,7 @@ Objetivo: Criar um planejamento dos casos de testes que você julgar necessário
 - Criar casos de testes no formato Gherkin;
 - Os casos de testes devem ser commitados em formato .pdf;
 
-## Etapa 4. Automação Mobile - Robot Framework
+## Etapa 4: Automação Mobile - Robot Framework
 Objetivo: Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflower:
 
 [APK](https://github.com/laspbr/DESAFIO_QA_FRONTEND/blob/main/sunflower.apk)
